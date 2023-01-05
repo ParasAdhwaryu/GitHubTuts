@@ -1,3 +1,1 @@
 Welcome to git tutorial
-
-In this you will learn about add,commit,push,pull
